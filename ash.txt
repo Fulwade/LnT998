@@ -1,10 +1,7 @@
 Ashish Vishnu Fulwade
-<<<<<<< HEAD
 this is new branch called fix
-=======
 month is march
 year is 2022
 an a apple is day keeps doctor away
 cats has 9 lives
 war going on russia and ukraime
->>>>>>> branch-1
